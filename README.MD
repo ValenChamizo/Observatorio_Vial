@@ -1,4 +1,4 @@
-LINK DOCUMENTACION COMMITS: 
+LINK DOCUMENTACION COMMITS: https://github.com/KarmaPulse/git-commit-message-conventions#start-of-content
 
 1. Frontend
 
