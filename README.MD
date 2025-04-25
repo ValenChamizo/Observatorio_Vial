@@ -8,4 +8,4 @@ LINK DOCUMENTACION COMMITS: https://github.com/KarmaPulse/git-commit-message-con
 
 4. Graficas: ipynb
 
-5. BD: db -> Esta es la misma base pero usando sqlite, con este codigo funciona el codigo de google colab
+5. mydb: db -> Esta es la misma base pero usando sqlite, con este codigo funciona el codigo de google colab
